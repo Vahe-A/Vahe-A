@@ -587,6 +587,7 @@ form div:hover{
     color: #B2B4BF;
     padding-bottom: 15px;
     max-width: 400px;
+    cursor: pointer;
 }
 .but_block{
     width:100%;
@@ -638,4 +639,8 @@ form div:hover{
 .logos:hover{
     transition:.7s;
     background-color:#3D58F3;
+}
+.footer_container2_item p:hover{
+    color: #3D58F3;
+    transition:.5s;
 }
